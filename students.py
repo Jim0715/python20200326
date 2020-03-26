@@ -49,4 +49,3 @@ professorA = professor('M', '工系', 'M10721255')
 professorB = professor('M', '工系', 'M10721258')
 ls = [studentA, studentB, professorA, professorB]
 for item in ls:
-    item.borrow_resources()
